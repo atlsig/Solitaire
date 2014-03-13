@@ -6,7 +6,7 @@ from pygame.locals import *
 import random
 
 class Game:
-
+#profa ad skrifa eitthvad
 	def __init__(self):
 		pygame.init()
 		random.seed()
